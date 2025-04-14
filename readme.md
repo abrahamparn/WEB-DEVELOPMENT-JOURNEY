@@ -8,17 +8,19 @@ Welcome to my **Web Development Journey** — a curated collection of frontend w
 
 ## 📁 Repository Structure
 
-| Folder Name                            | Description                                                                             |
-| -------------------------------------- | --------------------------------------------------------------------------------------- |
-| [`just-a-resto/`](./Just-a-resto-main) | Dicoding submission: a full-fledged PWA with favorite functionality and offline support |
+| Folder Name                                       | Description                                                                                |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [`just-a-resto/`](./Just-a-resto-main)            | Dicoding submission: a full-fledged PWA with favorite functionality and offline support    |
+| ['netflix-landing-page']('./netflix-landing-page) | Simple responsive vanilla HTML, CSS, and JavaScript landing page clone based on Netflix UI |
 
 > Each folder contains its own `README.md` file with setup instructions, features, and learnings specific to that project.
 
 ---
 
-## ✨ Highlighted Project: Just-a-resto
+## ✨ Projects overview
 
-📁 `Just-a-resto/`  
+### 📁 `Just-a-resto/`
+
 A responsive, installable **Progressive Web App** for restaurant listings with offline access and testing workflows. Built as part of the Dicoding Front-End Web Developer Expert course.
 
 - Features:
@@ -30,19 +32,33 @@ A responsive, installable **Progressive Web App** for restaurant listings with o
 
 📷 _Screenshots and demo links available in the folder’s `README.md`_
 
+### 📁 `netflix-landing-page/`
+
+a simple, responsive **Netflix landing page clone**, built using **HTML, CSS, and JavaScript**. The layout and styling are inspired by Netflix's official homepage and was built as a frontend UI exercise based on a tutorial by [Traversy Media](https://www.youtube.com/watch?v=27JtRAI3QO8).
+
+- Features:
+  - Netflix-inspired homepage layout
+  - Fully responsive (mobile, tablet, desktop)
+  - Image-based hero and content sections
+  - Fast loading and minimal dependencies
+- Stack: HTML, CSS, JAVASCRIPT
+  📷 _Screenshots and demo links available in the folder’s `README.md`_
+
 ---
 
 ## 🧠 What I’ve Learned
 
 This journey showcases skills and understanding in:
 
-- Semantic HTML & responsive CSS
-- JavaScript fundamentals, ES6+, and event-driven architecture
-- Fetch API and asynchronous data handling
-- Webpack configuration and asset optimization
-- Service Workers and offline caching (PWA)
-- Integration and E2E testing (Jasmine, Karma, CodeceptJS)
+- Semantic HTML & responsive CSS design
+- JavaScript fundamentals, ES6+, and event-driven programming
+- REST API integration & asynchronous data handling
+- Webpack bundling, configuration, and performance optimization
+- Service Worker implementation for offline support (PWA)
+- Frontend testing with Jasmine, Karma, and CodeceptJS
 - Accessibility, performance, and SEO optimization
+- Structuring frontend/backend codebases
+- Implementing JWT-based authentication
 
 ---
 
@@ -51,6 +67,8 @@ This journey showcases skills and understanding in:
 To explore any project:
 
 ```bash
+git clone https://github.com/abrahamparn/WEB-DEVELOPMENT-JOURNEY.git
+
 cd <project-folder>
 npm install
 npm run start-dev
