@@ -24,6 +24,12 @@ Fitur yang harus ada pada aplikasi:
   - Gunakan teknik Code Splitting untuk memisahkan vendor code dari kode asli yang Anda tuliskan.
   - Pertahankan syarat yang ada pada submission sebelumnya. Seperti penerapan PWA, responsibilitas tampilan, aksesibilitas pada website dan sebagainya.
 
+## Project Pictures
+
+| ![Banner](./image_demo/banner.png) | ![Restaurant List](./image_demo/list_restorant.png) |
+| :--------------------------------: | :-------------------------------------------------: |
+|           Banner section           |               Restaurant list section               |
+
 ## Feature
 
 - Responsive Design: Ensures optimal viewing across various devices.
