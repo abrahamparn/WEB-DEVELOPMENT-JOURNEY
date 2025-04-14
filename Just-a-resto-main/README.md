@@ -49,10 +49,10 @@ Fitur yang harus ada pada aplikasi:
 ├── e2e/                  # End-to-end test scripts
 ├── specs/                # Integration test specifications
 ├── src/                  # Source code
-│   ├── components/       # Reusable UI components
-│   ├── pages/            # Application pages
-│   ├── styles/           # CSS and styling files
-│   └── utils/            # Utility functions and helpers
+│   ├── public/
+│   ├── scrips/
+│   ├── styles/
+│   └── templates/
 ├── webpack.common.js     # Webpack common configuration
 ├── webpack.dev.js        # Webpack development configuration
 ├── webpack.prod.js       # Webpack production configuration

@@ -13,7 +13,8 @@ Welcome to my **Web Development Journey** — a curated collection of frontend w
 | [`just-a-resto/`](./Just-a-resto-main)            | Dicoding submission: a full-fledged PWA with favorite functionality and offline support                                                                      |
 | [`netflix-landing-page/`](./netflix-landing-page) | Simple responsive vanilla HTML, CSS, and JavaScript landing page clone based on Netflix UI                                                                   |
 | [`business-card/`](./business-card/)              | It serves as a personal online profile displaying contact details and branding.                                                                              |
-| [`copy-aribnb/`]('./copy-aribnb)                  | It replicates Airbnb’s homepage layout, making it a frontend UI practice project for applying component-based architecture and responsive layout techniques. |
+| [`copy-aribnb/`](./copy-aribnb)                   | It replicates Airbnb’s homepage layout, making it a frontend UI practice project for applying component-based architecture and responsive layout techniques. |
+| [`luxspace-bwa-course/`](./luxspace-bwa-course)   | This project is a responsive, modern landing page built with **React.js** and **Tailwind CSS**, inspired by the LuxSpace furniture e-commerce site.          |
 
 > Each folder contains its own `README.md` file with setup instructions, features, and learnings specific to that project.
 
@@ -64,6 +65,20 @@ Welcome to my **Web Development Journey** — a curated collection of frontend w
   - Fast startup with Create React App
 
 - stack: React, csss
+
+📷 _Screenshots and demo links available in the folder’s `README.md`_
+
+### 📁 `luxspace-bwa-course/`
+
+- Features
+
+  - Responsive, e-commerce-style landing page
+  - Clean and modular file structure
+  - Utility-first styling using Tailwind
+  - Layout inspired by real-world LuxSpace UI
+  - Ready for future extensions like routing or backend integration
+
+- stack: React, tailwind
 
 📷 _Screenshots and demo links available in the folder’s `README.md`_
 
