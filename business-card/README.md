@@ -53,8 +53,6 @@ business-card/
 - Easy to deploy as a portfolio component or static page
 - Minimal dependencies for fast performance
 
-## 📦 Available Scripts
-
 ## Learnings
 
 - Structure and organize a React-based single-page application (SPA)

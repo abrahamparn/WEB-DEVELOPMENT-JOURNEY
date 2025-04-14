@@ -8,11 +8,12 @@ Welcome to my **Web Development Journey** — a curated collection of frontend w
 
 ## 📁 Repository Structure
 
-| Folder Name                                       | Description                                                                                |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [`just-a-resto/`](./Just-a-resto-main)            | Dicoding submission: a full-fledged PWA with favorite functionality and offline support    |
-| [`netflix-landing-page/`](./netflix-landing-page) | Simple responsive vanilla HTML, CSS, and JavaScript landing page clone based on Netflix UI |
-| [`business-card/`](./business-card/)              | It serves as a personal online profile displaying contact details and branding.            |
+| Folder Name                                       | Description                                                                                                                                                  |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [`just-a-resto/`](./Just-a-resto-main)            | Dicoding submission: a full-fledged PWA with favorite functionality and offline support                                                                      |
+| [`netflix-landing-page/`](./netflix-landing-page) | Simple responsive vanilla HTML, CSS, and JavaScript landing page clone based on Netflix UI                                                                   |
+| [`business-card/`](./business-card/)              | It serves as a personal online profile displaying contact details and branding.                                                                              |
+| [`copy-aribnb/`]('./copy-aribnb)                  | It replicates Airbnb’s homepage layout, making it a frontend UI practice project for applying component-based architecture and responsive layout techniques. |
 
 > Each folder contains its own `README.md` file with setup instructions, features, and learnings specific to that project.
 
@@ -21,8 +22,6 @@ Welcome to my **Web Development Journey** — a curated collection of frontend w
 ## ✨ Projects overview
 
 ### 📁 `Just-a-resto/`
-
-A responsive, installable **Progressive Web App** for restaurant listings with offline access and testing workflows. Built as part of the Dicoding Front-End Web Developer Expert course.
 
 - Features:
   - Lazy loading
@@ -35,8 +34,6 @@ A responsive, installable **Progressive Web App** for restaurant listings with o
 
 ### 📁 `netflix-landing-page/`
 
-a simple, responsive **Netflix landing page clone**, built using **HTML, CSS, and JavaScript**. The layout and styling are inspired by Netflix's official homepage and was built as a frontend UI exercise based on a tutorial by [Traversy Media](https://www.youtube.com/watch?v=27JtRAI3QO8).
-
 - Features:
   - Netflix-inspired homepage layout
   - Fully responsive (mobile, tablet, desktop)
@@ -48,13 +45,24 @@ a simple, responsive **Netflix landing page clone**, built using **HTML, CSS, an
 
 ### 📁 `business-card/`
 
-This is a simple, responsive **digital business card** built using **React** and bootstrapped with [Create React App](https://create-react-app.dev/). It serves as a personal online profile displaying contact details and branding.
-
 - Features:
   - React (via Create React App)
   - HTML5 + CSS3
   - JavaScript (ES6+)
   - Fully responsive design
+- stack: React, csss
+
+📷 _Screenshots and demo links available in the folder’s `README.md`_
+
+### 📁 `copy-airbnb/`
+
+- Features
+
+  - very simple Airbnb-like homepage design
+  - Responsive layout for mobile and desktop
+  - Clean and maintainable component structure
+  - Fast startup with Create React App
+
 - stack: React, csss
 
 📷 _Screenshots and demo links available in the folder’s `README.md`_
