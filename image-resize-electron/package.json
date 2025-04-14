@@ -1,0 +1,22 @@
+{
+  "name": "imageresizeelectron",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "App to rezie",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"electron-packager ."
+  },
+  "author": "Abraham",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^27.0.0",
+    "electron-packager": "^17.1.2",
+    "resize-img": "^2.0.0",
+    "sweetalert": "^2.1.2",
+    "toastify-js": "^1.12.0",
+    "touch-cli": "^0.0.1"
+  }
+}
