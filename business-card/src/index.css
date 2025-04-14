@@ -1,0 +1,107 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.container {
+  background-color: #23252c;
+
+  margin-left: auto;
+  margin-right: auto;
+  display: flex; /* Add this line */
+  justify-content: center; /* Add this line */
+}
+
+.flex-direction {
+  display: flex; /* Add this line */
+  flex-direction: column; /* This line to set vertical direction */
+  align-items: center;
+}
+
+.image {
+  width: 317px;
+  height: 317px;
+  margin-top: 20px;
+  border-radius: 20px 20px 0 0;
+  object-fit: cover;
+}
+.text-format {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+.text-align-center {
+  text-align: center;
+}
+.main {
+  width: 317px;
+  background-color: #1a1b21;
+}
+.main-title {
+  font-size: 25px;
+}
+
+.main-subtitle {
+  font-size: 12.8px;
+  color: #f3bf99;
+}
+
+.main-p {
+  font-size: 10.24px;
+}
+
+.margin-top {
+  margin-top: 20px;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-content-space-around {
+  justify-content: space-around;
+}
+
+button {
+  width: 115px;
+  height: 34px;
+  border-radius: 8px;
+}
+.colorwhite-bgblue {
+  color: white;
+  background-color: #5093e2;
+}
+
+.container-small {
+  padding: 10px 25px;
+}
+
+.footer {
+  background-color: #161619;
+  height: 64px;
+  margin-bottom: 20px;
+}
+
+.box {
+  background-color: #918e9b;
+  color: black;
+  width: 25px;
+  height: 25px;
+  border-radius: 2px;
+  margin: 0 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.justify-content-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.fullheight {
+  height: 100dvh;
+}

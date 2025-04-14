@@ -11,7 +11,8 @@ Welcome to my **Web Development Journey** — a curated collection of frontend w
 | Folder Name                                       | Description                                                                                |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [`just-a-resto/`](./Just-a-resto-main)            | Dicoding submission: a full-fledged PWA with favorite functionality and offline support    |
-| ['netflix-landing-page']('./netflix-landing-page) | Simple responsive vanilla HTML, CSS, and JavaScript landing page clone based on Netflix UI |
+| [`netflix-landing-page/`](./netflix-landing-page) | Simple responsive vanilla HTML, CSS, and JavaScript landing page clone based on Netflix UI |
+| [`business-card/`](./business-card/)              | It serves as a personal online profile displaying contact details and branding.            |
 
 > Each folder contains its own `README.md` file with setup instructions, features, and learnings specific to that project.
 
@@ -42,7 +43,21 @@ a simple, responsive **Netflix landing page clone**, built using **HTML, CSS, an
   - Image-based hero and content sections
   - Fast loading and minimal dependencies
 - Stack: HTML, CSS, JAVASCRIPT
-  📷 _Screenshots and demo links available in the folder’s `README.md`_
+
+📷 _Screenshots and demo links available in the folder’s `README.md`_
+
+### 📁 `business-card/`
+
+This is a simple, responsive **digital business card** built using **React** and bootstrapped with [Create React App](https://create-react-app.dev/). It serves as a personal online profile displaying contact details and branding.
+
+- Features:
+  - React (via Create React App)
+  - HTML5 + CSS3
+  - JavaScript (ES6+)
+  - Fully responsive design
+- stack: React, csss
+
+📷 _Screenshots and demo links available in the folder’s `README.md`_
 
 ---
 
@@ -59,6 +74,7 @@ This journey showcases skills and understanding in:
 - Accessibility, performance, and SEO optimization
 - Structuring frontend/backend codebases
 - Implementing JWT-based authentication
+- Modern framework such as react
 
 ---
 
@@ -71,5 +87,6 @@ git clone https://github.com/abrahamparn/WEB-DEVELOPMENT-JOURNEY.git
 
 cd <project-folder>
 npm install
-npm run start-dev
+
+# usually i use npm run dev but some project might be using different script so please got to the project folder
 ```
