@@ -8,14 +8,15 @@ Welcome to my **Web Development Journey** — a curated collection of frontend w
 
 ## 📁 Repository Structure
 
-| Folder Name                                         | Description                                                                                                                                                  |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [`just-a-resto/`](./Just-a-resto-main)              | Dicoding submission: a full-fledged PWA with favorite functionality and offline support                                                                      |
-| [`netflix-landing-page/`](./netflix-landing-page)   | Simple responsive vanilla HTML, CSS, and JavaScript landing page clone based on Netflix UI                                                                   |
-| [`business-card/`](./business-card/)                | It serves as a personal online profile displaying contact details and branding.                                                                              |
-| [`copy-aribnb/`](./copy-aribnb)                     | It replicates Airbnb’s homepage layout, making it a frontend UI practice project for applying component-based architecture and responsive layout techniques. |
-| [`luxspace-bwa-course/`](./luxspace-bwa-course)     | This project is a responsive, modern landing page built with **React.js** and **Tailwind CSS**, inspired by the LuxSpace furniture e-commerce site.          |
-| [`image-resize-electron/`](./image-resize-electron) | This is a cross-platform **image resizer desktop application** built with **Electron**, using HTML, CSS, and JavaScript.                                     |
+| Folder Name                                         | Description                                                                                                                                                             |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [`just-a-resto/`](./Just-a-resto-main)              | Dicoding submission: a full-fledged PWA with favorite functionality and offline support                                                                                 |
+| [`netflix-landing-page/`](./netflix-landing-page)   | Simple responsive vanilla HTML, CSS, and JavaScript landing page clone based on Netflix UI                                                                              |
+| [`business-card/`](./business-card/)                | It serves as a personal online profile displaying contact details and branding.                                                                                         |
+| [`copy-aribnb/`](./copy-aribnb)                     | It replicates Airbnb’s homepage layout, making it a frontend UI practice project for applying component-based architecture and responsive layout techniques.            |
+| [`luxspace-bwa-course/`](./luxspace-bwa-course)     | This project is a responsive, modern landing page built with **React.js** and **Tailwind CSS**, inspired by the LuxSpace furniture e-commerce site.                     |
+| [`image-resize-electron/`](./image-resize-electron) | This is a cross-platform **image resizer desktop application** built with **Electron**, using HTML, CSS, and JavaScript.                                                |
+| [`click-indomaret`](./click-indomaret)              | **ClickIndomaret** is a hybrid desktop application built with **React (via Vite)** and styled using **Tailwind CSS**, then wrapped as a desktop app using **Electron**. |
 
 > Each folder contains its own `README.md` file with setup instructions, features, and learnings specific to that project.
 
@@ -94,6 +95,20 @@ Welcome to my **Web Development Journey** — a curated collection of frontend w
   - Built with native Electron APIs
 
 - stack: Electron.js
+
+📷 _Screenshots and demo links available in the folder’s `README.md`_
+
+### 📁 `click-indomaret/`
+
+- Features
+
+  - Launches as either a web or desktop app
+  - Fast dev mode via Vite (npm run dev)
+  - Styled using Tailwind CSS
+  - Cross-platform build support with electron-builder
+  - Modular and scalable project structure
+
+- stack: Electron.js and <b>react</b>
 
 📷 _Screenshots and demo links available in the folder’s `README.md`_
 
