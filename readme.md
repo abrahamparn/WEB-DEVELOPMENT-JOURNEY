@@ -32,13 +32,12 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 
 ### 🔧 Backend Projects
 
-| Project                                     | Stack                     | Description                                                                        |
-| ------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------- |
-| [`timer-api`](./backend/timer-api)          | Node.js, Express          | Timestamp microservice as part of FreeCodeCamp backend and apis certification      |
-| [`header-parser](./backend/header-parser)   | Node.js, Express          | header parser microservice as a part of freecodecamp backend and api certification |
-| [`url-shortener`](./backend/url-shortener/) | Node.js, Express, MongoDB | url shortener with db as a part of freecodecamp backend and api certification      |
-
----
+| Project                                           | Stack                           | Description                                                                        |
+| ------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------- |
+| [`timer-api`](./backend/timer-api)                | Node.js, Express                | Timestamp microservice as part of FreeCodeCamp backend and apis certification      |
+| [`header-parser`](./backend/header-parser)        | Node.js, Express                | header parser microservice as a part of freecodecamp backend and api certification |
+| [`url-shortener`](./backend/url-shortener)        | Node.js, Express, MongoDB       | url shortener with db as a part of freecodecamp backend and api certification      |
+| [`exercise-tracker`](./backend/exercise-tracker/) | Node.js, Express, MongoDB, Jest | exercise tracker with db as a part of freecodecamp backend and api certification   |
 
 ### 🖥️ Desktop Apps
 
