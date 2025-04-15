@@ -8,11 +8,11 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 
 ## 📁 Repository Structure
 
-| Category    | Folder                    | Description                                                            |
-| ----------- | ------------------------- | ---------------------------------------------------------------------- |
-| 🌐 Frontend | [`frontend/`](./frontend) | Frontend projects using HTML, CSS, JavaScript, React, and Tailwind CSS |
-| 🔧 Backend  | [`backend/`](./backend)   | REST API and backend microservices built with Node.js and Express      |
-| 🖥️ Desktop  | [`desktop/`](./desktop)   | Electron-based cross-platform desktop apps                             |
+| Category    | Folder                                                                                          | Description                                                            |
+| ----------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 🌐 Frontend | [`frontend/`](./frontend)                                                                       | Frontend projects using HTML, CSS, JavaScript, React, and Tailwind CSS |
+| 🔧 Backend  | [`backend/`](./backend) AND [🧱 Other Major Backend Projects](#🧱-other-major-backend-projects) | REST API and backend microservices built with Node.js and Express      |
+| 🖥️ Desktop  | [`desktop/`](./desktop)                                                                         | Electron-based cross-platform desktop apps                             |
 
 ---
 
@@ -32,13 +32,14 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 
 ### 🔧 Backend Projects
 
-| Project                                                         | Stack                           | Description                                                                        |
-| --------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------- |
-| [`timer-api`](./backend/timer-api)                              | Node.js, Express                | Timestamp microservice as part of FreeCodeCamp backend and apis certification      |
-| [`header-parser`](./backend/header-parser)                      | Node.js, Express                | header parser microservice as a part of freecodecamp backend and api certification |
-| [`url-shortener`](./backend/url-shortener)                      | Node.js, Express, MongoDB       | url shortener with db as a part of freecodecamp backend and api certification      |
-| [`exercise-tracker`](./backend/exercise-tracker)                | Node.js, Express, MongoDB, Jest | exercise tracker with db as a part of freecodecamp backend and api certification   |
-| [`file-metadata-project`](./backend/exercfile-metadata-project) | Node.js, Express,               | file meta data finder as a part of freecodecamp backend and api certification      |
+| Project                                                            | Stack                           | Description                                                                        |
+| ------------------------------------------------------------------ | ------------------------------- | ---------------------------------------------------------------------------------- |
+| [`timer-api`](./backend/timer-api)                                 | Node.js, Express                | Timestamp microservice as part of FreeCodeCamp backend and apis certification      |
+| [`header-parser`](./backend/header-parser)                         | Node.js, Express                | header parser microservice as a part of freecodecamp backend and api certification |
+| [`url-shortener`](./backend/url-shortener)                         | Node.js, Express, MongoDB       | url shortener with db as a part of freecodecamp backend and api certification      |
+| [`exercise-tracker`](./backend/exercise-tracker)                   | Node.js, Express, MongoDB, Jest | exercise tracker with db as a part of freecodecamp backend and api certification   |
+| [`file-metadata-project`](./backend/exercfile-metadata-project)    | Node.js, Express,               | file meta data finder as a part of freecodecamp backend and api certification      |
+| [`metric-imperial-converter`](./backend/metric-imperial-converter) | Node.js, Express, Mocha & Chai  | A RESTful API that converts values between **metric** and **imperial** units.      |
 
 ### 🖥️ Desktop Apps
 
@@ -48,6 +49,12 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 | [`click-indomaret`](./desktop/click-indomaret)             | Electron, React, Vite | Hybrid desktop app with React frontend |
 
 ---
+
+### 🧱 Other Major Backend Projects
+
+| Project                                               | Stack                        | Description                                                               |
+| ----------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------- |
+| [`todo-api`](https://github.com/abrahamparn/todo-api) | Node.js, Express, PostgreSQL | Full-featured Todo API with JWT auth, logging, validation, and test suite |
 
 ## 🚀 Getting Started
 
