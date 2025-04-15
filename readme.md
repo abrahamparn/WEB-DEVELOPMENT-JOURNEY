@@ -6,21 +6,22 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 
 ---
 
-## 🧪 Fullstack Projects
-
-| Project                                                       | Stack                 | Description                                     |
-| ------------------------------------------------------------- | --------------------- | ----------------------------------------------- |
-| [`task-manager`](https://github.com/abrahamparn/task-manager) | React, Express, MySQL | Fullstack task manager built for job assessment |
-
 ## 📁 Repository Structure
 
-| Category    | Folder                                                                                     | Description                                                            |
-| ----------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
-| 🌐 Frontend | [`frontend/`](./frontend)                                                                  | Frontend projects using HTML, CSS, JavaScript, React, and Tailwind CSS |
-| 🔧 Backend  | [`backend/`](./backend) AND [Other Major Backend Projects](#-other-major-backend-projects) | REST API and backend microservices built with Node.js and Express      |
-| 🖥️ Desktop  | [`desktop/`](./desktop)                                                                    | Electron-based cross-platform desktop apps                             |
+| Category              | Folder                                                                                     | Description                                                            |
+| --------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| 🌐 Frontend           | [`frontend/`](./frontend)                                                                  | Frontend projects using HTML, CSS, JavaScript, React, and Tailwind CSS |
+| 🔧 Backend            | [`backend/`](./backend) AND [Other Major Backend Projects](#-other-major-backend-projects) | REST API and backend microservices built with Node.js and Express      |
+| 🖥️ Desktop            | [`desktop/`](./desktop)                                                                    | Electron-based cross-platform desktop apps                             |
+| 🧪 Fullstack Projects | [`fullstack/`](#-fullstack-projects)                                                       | Electron-based cross-platform desktop apps                             |
 
 ---
+
+## 🧪 Fullstack Projects
+
+| Project                                                             | Stack                 | Description                                     |
+| ------------------------------------------------------------------- | --------------------- | ----------------------------------------------- |
+| [`task-management`](https://github.com/abrahamparn/task-management) | React, Express, MySQL | Fullstack task manager built for job assessment |
 
 ## ✨ Project Catalog
 
