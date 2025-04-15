@@ -81,6 +81,15 @@ npm run dev # or start or start-dev or some other, depending on project
 
 > Refer to each project’s `README.md` for specific scripts, tech stack, and usage.
 
+## 📜 Certifications
+
+Throughout this journey, I’ve earned the following certifications that reflect my learning and development across both frontend and backend disciplines:
+
+[![Full Stack Open](https://img.shields.io/badge/Full%20Stack%20Open-University%20of%20Helsinki-blue)](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/6e8ab7b5d6597155ec9d53657e237032)
+[![Quality Assurance](https://img.shields.io/badge/freeCodeCamp-Quality%20Assurance-brightgreen)](https://www.freecodecamp.org/certification/abraham_pn/quality-assurance-v7)
+[![Back End Development and APIs](https://img.shields.io/badge/freeCodeCamp-Back%20End%20Development%20and%20APIs-brightgreen)](https://www.freecodecamp.org/certification/abraham_pn/back-end-development-and-apis)
+[![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-brightgreen)](https://www.freecodecamp.org/certification/abraham_pn/responsive-web-design)
+
 ## 📬 Contact
 
 - GitHub: @abrahamparn
