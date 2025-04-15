@@ -17,12 +17,6 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 
 ---
 
-## 🧪 Fullstack Projects
-
-| Project                                                             | Stack                 | Description                                     |
-| ------------------------------------------------------------------- | --------------------- | ----------------------------------------------- |
-| [`task-management`](https://github.com/abrahamparn/task-management) | React, Express, MySQL | Fullstack task manager built for job assessment |
-
 ## ✨ Project Catalog
 
 ### 🌐 Frontend Projects
@@ -53,6 +47,8 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 | [`american-british-translator`](./backend/american-british-translator) | Node.js, Express, Mocha & Chai  | A RESTful translation microservice that converts text between **American** and **British English**, using predefined term dictionaries.  |
 | [`pong`](./backend/pong)                                               | Node.js, Express.js, Socket.IO  | A multiplayer **real-time Pong game** built with **Node.js**, **Socket.IO**, and HTML5 Canvas.                                           |
 
+---
+
 ### 🖥️ Desktop Apps
 
 | Project                                                    | Stack                 | Description                            |
@@ -62,11 +58,21 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 
 ---
 
+### 🧪 Fullstack Projects
+
+| Project                                                             | Stack                 | Description                                     |
+| ------------------------------------------------------------------- | --------------------- | ----------------------------------------------- |
+| [`task-management`](https://github.com/abrahamparn/task-management) | React, Express, MySQL | Fullstack task manager built for job assessment |
+
+---
+
 ### 🧱 Other Major Backend Projects
 
 | Project                                               | Stack                        | Description                                                               |
 | ----------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------- |
 | [`todo-api`](https://github.com/abrahamparn/todo-api) | Node.js, Express, PostgreSQL | Full-featured Todo API with JWT auth, logging, validation, and test suite |
+
+---
 
 ## 🚀 Getting Started
 
@@ -82,6 +88,8 @@ npm run dev # or start or start-dev or some other, depending on project
 
 > Refer to each project’s `README.md` for specific scripts, tech stack, and usage.
 
+---
+
 ## 📜 Certifications
 
 Throughout this journey, I’ve earned the following certifications that reflect my learning and development across both frontend and backend disciplines:
@@ -90,6 +98,8 @@ Throughout this journey, I’ve earned the following certifications that reflect
 [![Quality Assurance](https://img.shields.io/badge/freeCodeCamp-Quality%20Assurance-brightgreen)](https://www.freecodecamp.org/certification/abraham_pn/quality-assurance-v7)
 [![Back End Development and APIs](https://img.shields.io/badge/freeCodeCamp-Back%20End%20Development%20and%20APIs-brightgreen)](https://www.freecodecamp.org/certification/abraham_pn/back-end-development-and-apis)
 [![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-brightgreen)](https://www.freecodecamp.org/certification/abraham_pn/responsive-web-design)
+
+---
 
 ## 📬 Contact
 
