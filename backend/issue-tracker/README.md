@@ -17,6 +17,10 @@ A simple but complete **issue tracking API**, built with **Node.js**, **Express*
 
 ---
 
+## Project Picture
+
+![picture](./readme/Capture.PNG)
+
 ## 📁 Folder Structure
 
 ```bash
