@@ -42,6 +42,7 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 | [`metric-imperial-converter`](./backend/metric-imperial-converter) | Node.js, Express, Mocha & Chai  | A RESTful API that converts values between **metric** and **imperial** units.                                                            |
 | [`issue-tracker`](./backend/issue-tracker)                         | Node.js, Express, Mocha & Chai  | A simple but complete **issue tracking API**, built with **Node.js**, **Express**, and basic testing using **Mocha + Chai + Supertest**. |
 | [`personal-library`](./backend/personal-library)                   | Node.js, Express, Mocha & Chai  | A RESTful book management API built using **Node.js**, **Express**, and **MongoDB**.                                                     |
+| [`sodoku-solver`](./backend/sodoku-solver)                         | Node.js, Express, Mocha & Chai  | A RESTful API that validates and solves 9x9 Sudoku puzzles.                                                                              |
 
 ### 🖥️ Desktop Apps
 
