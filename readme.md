@@ -6,13 +6,19 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 
 ---
 
+## 🧪 Fullstack Projects
+
+| Project                                                       | Stack                 | Description                                     |
+| ------------------------------------------------------------- | --------------------- | ----------------------------------------------- |
+| [`task-manager`](https://github.com/abrahamparn/task-manager) | React, Express, MySQL | Fullstack task manager built for job assessment |
+
 ## 📁 Repository Structure
 
-| Category    | Folder                                                                                          | Description                                                            |
-| ----------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 🌐 Frontend | [`frontend/`](./frontend)                                                                       | Frontend projects using HTML, CSS, JavaScript, React, and Tailwind CSS |
-| 🔧 Backend  | [`backend/`](./backend) AND [🧱 Other Major Backend Projects](#🧱-other-major-backend-projects) | REST API and backend microservices built with Node.js and Express      |
-| 🖥️ Desktop  | [`desktop/`](./desktop)                                                                         | Electron-based cross-platform desktop apps                             |
+| Category    | Folder                                                                                     | Description                                                            |
+| ----------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| 🌐 Frontend | [`frontend/`](./frontend)                                                                  | Frontend projects using HTML, CSS, JavaScript, React, and Tailwind CSS |
+| 🔧 Backend  | [`backend/`](./backend) AND [Other Major Backend Projects](#-other-major-backend-projects) | REST API and backend microservices built with Node.js and Express      |
+| 🖥️ Desktop  | [`desktop/`](./desktop)                                                                    | Electron-based cross-platform desktop apps                             |
 
 ---
 
@@ -44,6 +50,7 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 | [`personal-library`](./backend/personal-library)                       | Node.js, Express, Mocha & Chai  | A RESTful book management API built using **Node.js**, **Express**, and **MongoDB**.                                                     |
 | [`sodoku-solver`](./backend/sodoku-solver)                             | Node.js, Express, Mocha & Chai  | A RESTful API that validates and solves 9x9 Sudoku puzzles.                                                                              |
 | [`american-british-translator`](./backend/american-british-translator) | Node.js, Express, Mocha & Chai  | A RESTful translation microservice that converts text between **American** and **British English**, using predefined term dictionaries.  |
+| [`pong`](./backend/pong)                                               | Node.js, Express.js, Socket.IO  | A multiplayer **real-time Pong game** built with **Node.js**, **Socket.IO**, and HTML5 Canvas.                                           |
 
 ### 🖥️ Desktop Apps
 
