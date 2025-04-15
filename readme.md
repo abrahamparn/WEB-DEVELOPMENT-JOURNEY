@@ -32,17 +32,18 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 
 ### 🔧 Backend Projects
 
-| Project                                                            | Stack                           | Description                                                                                                                              |
-| ------------------------------------------------------------------ | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| [`timer-api`](./backend/timer-api)                                 | Node.js, Express                | Timestamp microservice as part of FreeCodeCamp backend and apis certification                                                            |
-| [`header-parser`](./backend/header-parser)                         | Node.js, Express                | header parser microservice as a part of freecodecamp backend and api certification                                                       |
-| [`url-shortener`](./backend/url-shortener)                         | Node.js, Express, MongoDB       | url shortener with db as a part of freecodecamp backend and api certification                                                            |
-| [`exercise-tracker`](./backend/exercise-tracker)                   | Node.js, Express, MongoDB, Jest | exercise tracker with db as a part of freecodecamp backend and api certification                                                         |
-| [`file-metadata-project`](./backend/exercfile-metadata-project)    | Node.js, Express,               | file meta data finder as a part of freecodecamp backend and api certification                                                            |
-| [`metric-imperial-converter`](./backend/metric-imperial-converter) | Node.js, Express, Mocha & Chai  | A RESTful API that converts values between **metric** and **imperial** units.                                                            |
-| [`issue-tracker`](./backend/issue-tracker)                         | Node.js, Express, Mocha & Chai  | A simple but complete **issue tracking API**, built with **Node.js**, **Express**, and basic testing using **Mocha + Chai + Supertest**. |
-| [`personal-library`](./backend/personal-library)                   | Node.js, Express, Mocha & Chai  | A RESTful book management API built using **Node.js**, **Express**, and **MongoDB**.                                                     |
-| [`sodoku-solver`](./backend/sodoku-solver)                         | Node.js, Express, Mocha & Chai  | A RESTful API that validates and solves 9x9 Sudoku puzzles.                                                                              |
+| Project                                                                | Stack                           | Description                                                                                                                              |
+| ---------------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [`timer-api`](./backend/timer-api)                                     | Node.js, Express                | Timestamp microservice as part of FreeCodeCamp backend and apis certification                                                            |
+| [`header-parser`](./backend/header-parser)                             | Node.js, Express                | header parser microservice as a part of freecodecamp backend and api certification                                                       |
+| [`url-shortener`](./backend/url-shortener)                             | Node.js, Express, MongoDB       | url shortener with db as a part of freecodecamp backend and api certification                                                            |
+| [`exercise-tracker`](./backend/exercise-tracker)                       | Node.js, Express, MongoDB, Jest | exercise tracker with db as a part of freecodecamp backend and api certification                                                         |
+| [`file-metadata-project`](./backend/exercfile-metadata-project)        | Node.js, Express,               | file meta data finder as a part of freecodecamp backend and api certification                                                            |
+| [`metric-imperial-converter`](./backend/metric-imperial-converter)     | Node.js, Express, Mocha & Chai  | A RESTful API that converts values between **metric** and **imperial** units.                                                            |
+| [`issue-tracker`](./backend/issue-tracker)                             | Node.js, Express, Mocha & Chai  | A simple but complete **issue tracking API**, built with **Node.js**, **Express**, and basic testing using **Mocha + Chai + Supertest**. |
+| [`personal-library`](./backend/personal-library)                       | Node.js, Express, Mocha & Chai  | A RESTful book management API built using **Node.js**, **Express**, and **MongoDB**.                                                     |
+| [`sodoku-solver`](./backend/sodoku-solver)                             | Node.js, Express, Mocha & Chai  | A RESTful API that validates and solves 9x9 Sudoku puzzles.                                                                              |
+| [`american-british-translator`](./backend/american-british-translator) | Node.js, Express, Mocha & Chai  | A RESTful translation microservice that converts text between **American** and **British English**, using predefined term dictionaries.  |
 
 ### 🖥️ Desktop Apps
 
