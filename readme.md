@@ -32,10 +32,10 @@ Welcome to my **Fullstack Development Journey** — a curated monorepo containin
 
 ### 🔧 Backend Projects
 
-| Project                            | Stack            | Description                                         |
-| ---------------------------------- | ---------------- | --------------------------------------------------- |
-| [`timer-api`](./backend/timer-api) | Node.js, Express | Timestamp microservice refactored from FreeCodeCamp |
-| _More coming soon_                 |                  |                                                     |
+| Project                                   | Stack            | Description                                                                         |
+| ----------------------------------------- | ---------------- | ----------------------------------------------------------------------------------- |
+| [`timer-api`](./backend/timer-api)        | Node.js, Express | Timestamp microservice as part of FreeCodeCamp backend and apis certification       |
+| [`header-parser](./backend/header-parser) | Node.js, Express | header parser microservice as a part of freecodecamp backend and apsi certification |
 
 ---
 
