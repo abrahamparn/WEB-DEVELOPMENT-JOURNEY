@@ -18,7 +18,7 @@ This is a cross-platform **image resizer desktop application** built with **Elec
 
 ```bash
 git clone https://github.com/abrahamparn/IMAGERESIZEELECTRON.git
-cd IMAGERESIZEELECTRON
+cd image-resize-electron
 npm install
 npm start
 ```
